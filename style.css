@@ -30,7 +30,7 @@ h1{font-size: 8em;}
     color: rgb(0, 0, 0);
     border-radius: 20px;
     margin-left: 40px;
-    background-image: url(/p2.png);
+    background-image: url(./p2.png);
     display: inline-block;
     background-repeat: no-repeat;
     background-size: 300px 100px;
