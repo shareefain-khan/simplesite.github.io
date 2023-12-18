@@ -1,0 +1,70 @@
+h1{font-size: 8em;}
+
+.div1{
+  height: 720px;
+  width: 650px;
+  border: 1px solid white;
+  padding: 10px;
+    
+}
+
+.div2{
+    height: 300px;
+    width: 300px;
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    background-image: url(./p1.png);
+    background-repeat: no-repeat;
+    background-size: 300px 100px;
+    float: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 2px;
+    
+    
+}
+
+
+.div4{
+    height: 300px;
+    width: 300px;
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    margin-left: 40px;
+    display: inline-block;
+    background-image: url(/p2.png);
+    background-repeat: no-repeat;
+    background-size: 300px 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 5px;
+    
+    
+}
+.div5{
+    height: 300px;
+    width: 300px;
+    color: rgb(0, 0, 0);
+    margin-left: 0px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-image: url(./3.png);
+    background-repeat: no-repeat;
+    background-size: 300px 100px;
+    display: inline-block;
+    float: left;
+    
+}
+.div6{
+    height: 300px;
+    width: 300px;
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-top: 10px;
+    background-image: url(./4.png);
+    background-repeat: no-repeat;
+    background-size: 300px 100px;
+    display: inline-block;
+    float: left;
+    
+}
+
